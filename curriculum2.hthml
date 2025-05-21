@@ -1,0 +1,96 @@
+<html>
+<head>
+              <title>Curriculum Brissa Yevismea</title>
+</head>
+
+
+<style>
+img{border-radius: 50%;}
+div { max-width: 800px;}
+         margin: 20px auto;
+         padding: 20px;
+         border: 1px solid #ccc;
+         border-radius: 10px;
+         background-color: #f9f9f9;}
+ section {margin-bottom: 20px}
+ section h2 {border-bottom: 1px solid #ccc;4
+             padding-bottom: 10px;
+             margin-bottom: 10px,}
+ </style>
+ <body>
+ <div>
+ <header>
+ <left>   <img src="lo.png" style="float:left;> </left>
+ <center> <p> <h1> Brissa Yevismea </p> </h1></center>
+ <center> <p> <h1>Meza </p> </center>
+  <center> <p> <h1>Diseñador Gráfico </p> </center>
+ </header>
+ <br> <br>
+ 
+ <section>
+ <h2> <b> Educación <b> h/h2>
+ <dev>
+ <ul>
+ <li> Ecuela Telesecuandaria 248 prom 9</li>
+ <li> Ecuela Primaria Estado de Michoacan prom 9</li>
+ <li> Preescolar </li>
+ </div>
+ </section>
+ 
+ 
+ <section>
+ <h2> <b> Habilidades </b> </h2>
+ <div>
+ <ul>
+ <li> comunicación</li>
+ <li>Trabajo en equipo </li>
+ <li>Responsable</li>
+ </div>
+ </section>
+ <section>
+ <h2> <br> Acerca de mi </br> </h2>
+ <div>
+    Soy una alumna de preparatoria en la especialidad de diseño grafico, manejo distintos tipos de software mantengo calificaciones de 9 y 10         
+  </div>
+  </section>
+  
+  <section>
+  <h2> <b> Experiencia laboral</b> </h2>
+  <div>
+  <ul>
+  <li>Diseño de logo</li>
+  <li>Promoción de negocios</li>
+  </div>
+  </section>
+  
+  <section>
+  <h2> <b> Software </b> </h2>
+  <div>
+  <ul>
+  <li>Adobe ilustator</li>
+   <li>Sketchup</li>
+    <li>Adobe animate</li>
+   <li>Adobe photoshop</li> 
+      </div>
+  </section> 
+      <section>
+  <h2> <b> Contacto </b> </h2>
+  <div>
+  <ul>
+  <li>6472268529</li>    
+  <li>Briss1223diseño@gmail.com</li> 
+  <li>Lazaro cardenaz centro</li> 
+  
+   </div>
+  </section> 
+  
+  
+  </div>
+  </body>
+  </html>
+  
+  
+  
+  
+  
+        
